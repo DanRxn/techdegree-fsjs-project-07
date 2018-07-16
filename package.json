@@ -1,0 +1,27 @@
+{
+  "name": "twinterface",
+  "version": "0.0.1",
+  "description": "Twitter Interface | Dan Robertson | Full Stack Javascript - Techdegree | Treehouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanRxn/techdegree-fsjs-project-07.git"
+  },
+  "keywords": [
+    "twitter",
+    "interface",
+    "api"
+  ],
+  "author": "Dan Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanRxn/techdegree-fsjs-project-07/issues"
+  },
+  "homepage": "https://github.com/DanRxn/techdegree-fsjs-project-07#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
