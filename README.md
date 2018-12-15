@@ -1,6 +1,6 @@
-# Project Title
+# Static Portfolio Site
 
-This is a personal portfolio site (static Node.js and Pug for UI templating), to showcase my unit-capping projects thus far in my Treehouse TechDegree for Full-Stack JavaScript. 
+This is a static personal portfolio site (with Node.js, Express, and Pug for UI templating), to showcase my unit-capping projects thus far in my Treehouse TechDegree for Full-Stack JavaScript. 
 
 ## Getting Started
 
