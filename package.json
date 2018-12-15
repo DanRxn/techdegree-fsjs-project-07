@@ -1,0 +1,23 @@
+{
+  "name": "techdegree-fsjs-project-07",
+  "version": "0.1.0",
+  "description": "This is a personal portfolio site (static Node.js and Pug for UI templating), to showcase my unit-capping projects thus far in my Treehouse TechDegree for Full-Stack JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanRxn/techdegree-fsjs-project-07.git"
+  },
+  "author": "Dan Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanRxn/techdegree-fsjs-project-07/issues"
+  },
+  "homepage": "https://github.com/DanRxn/techdegree-fsjs-project-07#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
