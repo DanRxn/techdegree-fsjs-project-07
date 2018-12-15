@@ -1,0 +1,49 @@
+{
+	"projects": [
+		{
+			"id": 0,
+			"project_name": "xyz",
+			"description": "abc",
+			"technologies": ["HTML", "CSS", "xyz"],
+			"live_link": "http://xyz.com/abc",
+			"github_link": "http://github.com/abc",
+			"image_urls": ["/relative_path_goes_HERE", "/relative_path_goes_HERE", "/relative_path_goes_HERE"]
+		},
+		{
+			"id": 1,
+			"project_name": "xyz",
+			"description": "abc",
+			"technologies": ["HTML", "CSS", "xyz"],
+			"live_link": "http://xyz.com/abc",
+			"github_link": "http://github.com/abc",
+			"image_urls": ["/relative_path_goes_HERE", "/relative_path_goes_HERE", "/relative_path_goes_HERE"]
+		},
+		{
+			"id": 2,
+			"project_name": "xyz",
+			"description": "abc",
+			"technologies": ["HTML", "CSS", "xyz"],
+			"live_link": "http://xyz.com/abc",
+			"github_link": "http://github.com/abc",
+			"image_urls": ["/relative_path_goes_HERE", "/relative_path_goes_HERE", "/relative_path_goes_HERE"]
+		},
+		{
+			"id": 3,
+			"project_name": "xyz",
+			"description": "abc",
+			"technologies": ["HTML", "CSS", "xyz"],
+			"live_link": "http://xyz.com/abc",
+			"github_link": "http://github.com/abc",
+			"image_urls": ["/relative_path_goes_HERE", "/relative_path_goes_HERE", "/relative_path_goes_HERE"]
+		},
+		{
+			"id": 4,
+			"project_name": "xyz",
+			"description": "abc",
+			"technologies": ["HTML", "CSS", "xyz"],
+			"live_link": "http://xyz.com/abc",
+			"github_link": "http://github.com/abc",
+			"image_urls": ["/relative_path_goes_HERE", "/relative_path_goes_HERE", "/relative_path_goes_HERE"]
+		}
+	]
+}
