@@ -2,7 +2,7 @@
   "name": "techdegree-fsjs-project-07",
   "version": "0.1.0",
   "description": "This is a personal portfolio site (static Node.js and Pug for UI templating), to showcase my unit-capping projects thus far in my Treehouse TechDegree for Full-Stack JavaScript.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
