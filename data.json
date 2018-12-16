@@ -2,8 +2,8 @@
 	"projects": [
 		{
 			"id": 0,
-			"project_name": "xyz",
-			"description": "abc",
+			"project_name": "xyz0",
+			"description": "abc0",
 			"technologies": ["HTML", "CSS", "xyz"],
 			"live_link": "http://xyz.com/abc",
 			"github_link": "http://github.com/abc",
@@ -11,8 +11,8 @@
 		},
 		{
 			"id": 1,
-			"project_name": "xyz",
-			"description": "abc",
+			"project_name": "xyz1",
+			"description": "abc1",
 			"technologies": ["HTML", "CSS", "xyz"],
 			"live_link": "http://xyz.com/abc",
 			"github_link": "http://github.com/abc",

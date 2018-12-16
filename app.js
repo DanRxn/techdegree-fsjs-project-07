@@ -15,6 +15,34 @@ app.use(express.static('public'));
 // Set Pug as the view engine for Express
 app.set('view engine', 'pug');
 
+// Make project data available as a local variable
+app.locals.projects = data.projects;
+
+// Routes
+
+app.get('/', function (req, res) {
+  res.send('Home page!')
+});
+
+app.get('/about', function (req, res) {
+  res.send('About page!')
+});
+
+app.get('/projects/:projectId', function (req, res) {
+	const project = req.app.locals.projects[req.params.projectId];
+	res.send(`
+		<h1>Project ${req.params.projectId}! </h1>
+		Project ID: ${project.id} <br>
+		Descriptoin: ${project.description}
+	`)
+});
+
+
+
+
+
+
+
 
 // 🤔 From the help doc's Hello World example
 app.get('/', (req, res) => res.send('Hello World!'));
